@@ -1,1 +1,1 @@
-# dice
+# Simple Fun Dice Game!
